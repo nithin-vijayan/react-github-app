@@ -1,2 +1,2 @@
 # react-github-app
-An application built on react using github apis
+An application built on react-js using github api
